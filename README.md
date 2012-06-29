@@ -1,4 +1,6 @@
 Component1
 ==========
 
-Component to test the submodule feature
+Cmponent to test the submodule feature
+
+Change in the component.
